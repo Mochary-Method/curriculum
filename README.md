@@ -169,8 +169,6 @@
 
 [Getting rid of 1-1s by Sam Chaudhary, CEO of ClassDojo](https://docs.google.com/document/d/1JRiq6LAelD52qfmGHheixsd1Ysmv3DwkWCP1TDwUiIQ)
 
-[Goals Review: How to keep a pulse on your entire company\!](https://docs.google.com/document/d/1ckE18p0wVl1zKgoY9k7rZXxWX8StMCb4GcmhZuIig1k)
-
 [Goals: how to create and review](https://docs.google.com/document/d/1S5ak38pEg7fZE5H2INOzUHHZJTW9QAB8aobQJW5Uyek)
 
 [Gratitude](https://docs.google.com/document/d/18kCULxudhpoSZNN-5m4G611YGNI92aZA-xrMjbF0juA)
@@ -307,8 +305,6 @@
 
 [Mochary Method 1-1 meeting template as of 7-21-23](https://docs.google.com/document/d/1KNzE2ksI3TPH5OWpmg4DjekJT-_zt3NQCONFp_PAv-E)
 
-[Mochary Method curriculum private docs](https://docs.google.com/document/d/1nk8fmCvFz4FFT2t-g0liI6kqvZnOxIhIaG0h7a2ENZ8)
-
 [Mochary Method Curriculum](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s)
 
 [Mochary Method team meeting template as of 8-4-23](https://docs.google.com/document/d/1hnVIVvcT-dcLw_NpHO9Q8huBZZ8bYAbDC7Y1tzO5DbE)
@@ -326,8 +322,6 @@
 [Notion Mochary Method setup](https://docs.google.com/document/d/1OpeyoovDscvumVP7VRzxObJx7QZjuGgHbXfbmUriTak)
 
 [Offsite](https://docs.google.com/document/d/1j4B8gUUIeZehKhhuCFsm-vin3s-Wj7462PdcMW4cGaQ)
-
-[Offsites, big](https://docs.google.com/document/d/1-jMBlxilcYJgIMbBRHmsZXa99D5KoMmFZ4JHZcaC3Os)
 
 [OKR Creation](https://docs.google.com/document/d/1GoiH4pwsph5rwSM_wMMiMJkX6-qFVwO0SVYkodNZhwg)
 
